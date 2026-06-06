@@ -13,3 +13,7 @@ Hey! I'm Krish 👋  <br>A BCA student passionate about building, designing, and
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=codexxxx07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/codexxxx07/codexxxx07/blob/output/github-contribution-grid-snake.svg)
+
+
