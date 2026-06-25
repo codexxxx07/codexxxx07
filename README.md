@@ -6,8 +6,14 @@ Hey! I'm Krish 👋  <br>A BCA student passionate about building, designing, and
 </div>
 <div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1360538083556327504) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_k_r_i_s_h_x_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishanjit-chakraborty-258a5237a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ikrish21052007@gmail.com) 
+## 🌐 Connect With Me:
+
+<p>
+  <a href="https://linkedin.com/in/krishanjit-chakraborty-258a5237a" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+  <a href="https://discord.gg/1360538083556327504" target="_blank"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
+  <a href="https://instagram.com/_k_r_i_s_h_x_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
+  <a href="mailto:ikrish21052007@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
+</p>
 
 </div>
 
