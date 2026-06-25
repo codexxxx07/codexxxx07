@@ -1,7 +1,30 @@
 <div align="center">
   
 # 💫 About Me:
-Hey! I'm Krish 👋  <br>A BCA student passionate about building, designing, and securing digital experiences.<br><br>🚀 I'm focused on Game Development while exploring Full Stack Development and UI/UX Design to create interactive and user-friendly applications.<br>🔐 I also have a strong interest in Ethical Hacking and Cyber Security, learning how systems work and how to make them secure.<br>📈 I believe in learning by building real-world projects and continuously improving my skills.<br>✨ Always curious, always learning, and always building.
+Hey! I'm Krish 👋
+
+**BCA student** @ Adamas University, Kolkata — obsessed with creating things that are actually fun to use.
+
+<table border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td>🎮 <b>Game Dev</b></td>
+    <td>— building worlds that feel alive</td>
+  </tr>
+  <tr>
+    <td>🌐 <b>Full Stack</b></td>
+    <td>— because every game needs a home on the web</td>
+  </tr>
+  <tr>
+    <td>🎨 <b>UI/UX</b></td>
+    <td>— because ugly interfaces are a crime</td>
+  </tr>
+  <tr>
+    <td>🔐 <b>Ethical Hacking</b></td>
+    <td>— I like knowing how things break</td>
+  </tr>
+</table>
+
+Currently learning by shipping. Every bug is a lesson (unfortunately)..
 
 </div>
 <div align="center">
