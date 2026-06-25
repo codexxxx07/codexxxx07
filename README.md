@@ -80,6 +80,8 @@ Currently learning by shipping. Every bug is a lesson (unfortunately)..
   <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" /></a>
+  <a href="https://www.kali.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite&theme=dark" /></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=dark" /></a>
   <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" /></a>
   <a href="https://www.netlify.com/" target="_blank"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" /></a>
