@@ -60,8 +60,10 @@ Currently learning by shipping. Every bug is a lesson (unfortunately)..
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" /></a>
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
+  <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux&theme=dark" /></a>
 </p>
 
 ### 🎮 Game Development
@@ -80,6 +82,7 @@ Currently learning by shipping. Every bug is a lesson (unfortunately)..
   <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" /></a>
+  <a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" /></a>
   <a href="https://www.kali.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite&theme=dark" /></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=dark" /></a>
