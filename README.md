@@ -37,6 +37,15 @@ Currently learning by shipping. Every bug is a lesson (unfortunately)..
 </div>
 <div align="center">
 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/></td>
+      <td><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200"/></td>
+    </tr>
+  </table>
+</div>
+
 ## 🌐 Connect With Me:
 
 <p>
