@@ -19,7 +19,7 @@ Hey! I'm Krish 👋
     <td>— building worlds that feel alive</td>
   </tr>
   <tr>
-    <td>🌐 <b>Full Stack</b></td>
+    <td>🌐 <b>Full Stack Dev</b></td>
     <td>— because every game needs a home on the web</td>
   </tr>
   <tr>
