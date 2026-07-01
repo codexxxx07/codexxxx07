@@ -1,4 +1,12 @@
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6c63ff&height=200&section=header&text=Krish&fontSize=60&fontColor=ffffff&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Game+Developer+%F0%9F%8E%AE;Full+Stack+Developer+%F0%9F%8C%90;UI%2FUX+Designer+%F0%9F%8E%A8;Ethical+Hacker+%F0%9F%94%90)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
   
 # 💫 About Me:
 Hey! I'm Krish 👋
