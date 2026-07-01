@@ -100,6 +100,7 @@ Currently learning by shipping. Every bug is a lesson (unfortunately)..
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" /></a>
   <a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda&theme=dark" /></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48"         height="48" /></a>
   <a href="https://www.kali.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite&theme=dark" /></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=dark" /></a>
