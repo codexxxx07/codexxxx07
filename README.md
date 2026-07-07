@@ -8,7 +8,7 @@
 
 <div align="center">
   
-# 💫 About Me :
+# 💫 About Me:
 Hey! I'm Krish 👋
 
 **BCA student** @ Adamas University, Kolkata — obsessed with creating things that are actually fun to use.
