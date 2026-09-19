@@ -87,6 +87,8 @@ Currently learning by shipping. Every bug is a lesson (unfortunately)..
 ### 🎮 Game Development
 <p>
   <a href="https://godotengine.org/" target="_blank"><img src="https://skillicons.dev/icons?i=godot&theme=dark" /></a>
+  <a href="https://www.autodesk.com/products/maya/" target="_blank"><img src="https://cdn.simpleicons.org/autodeskmaya/FFFFFF" width="48" height="48" alt="Maya"/></a>
+</p>
 </p>
 
 ### 🗄️ Databases
