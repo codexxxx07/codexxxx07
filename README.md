@@ -11,7 +11,7 @@
 # 💫 About Me:
 Hey! I'm Krish 👋
 
-**BCA student** @ Adamas University, Kolkata — obsessed with creating things that are actually fun to use.
+**BCA student** @ Adamas University, Kolkata - obsessed with creating things that are actually fun to use.
 
 <table border="0" cellspacing="0" cellpadding="8">
   <tr>
