@@ -53,7 +53,7 @@ Currently learning by shipping. Every bug is a lesson (unfortunately)..
   <a href="https://linkedin.com/in/krishanjit-chakraborty-258a5237a" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
   <a href="https://discord.gg/1360538083556327504" target="_blank"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
   <a href="https://instagram.com/_k_r_i_s_h_x_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
-  <a href="mailto:ikrish21052007@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
+ 
 </p>
 
 </div>
