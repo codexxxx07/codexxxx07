@@ -124,7 +124,6 @@ Currently learning by shipping. Every bug is a lesson (unfortunately)..
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
 
 ![snake gif](https://github.com/codexxxx07/codexxxx07/blob/output/github-snake-dark.svg)
